@@ -1,0 +1,27 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+.vscode/
+.idea/
+*.suo
+*.swp
+
+# Logs
+*.log
+error_log
+
+# Env / secrets (if you ever add a config file with API keys)
+.env
+*.local.php
+
+# Dependency folders (only relevant if you ever add these)
+node_modules/
+vendor/
+
+# Backups some editors/plugins create
+*~
+*.bak
+*.orig
